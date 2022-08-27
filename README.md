@@ -5,7 +5,7 @@
 ## Notes
 
 Please don't ask for setup support. I cannot support all your different setups. Sorry.
-
+https://github.com/n-goncalves/onlyoffice-ce-docker-license
 Please also don't ask OnlyOffice devs for support if something is broken with this image.
 
 **There will be bugs.**
